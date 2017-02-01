@@ -1,6 +1,7 @@
 # DirectedGraph
 
-Deploymwnt - Download the Maven Build and Run the App (Main) program.
+Deployment - Download the Maven Build and Run the App (Main) program.
+
 
 
 Solutions for the problems :
